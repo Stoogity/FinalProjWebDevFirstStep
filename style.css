@@ -1,0 +1,19 @@
+/* Basic CSS, will 100% add more as page is developed*/
+.header h2 {
+    text-align: center;
+    width: 100%;
+}
+
+.nav ul {
+    display: inline-block;
+    background-color: teal;
+    width: 100%;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 1%;
+    list-style: none;
+    color: #000;
+}
